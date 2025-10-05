@@ -12,9 +12,11 @@ Automatic answer on computers and keypads.
 
 `/option CPH_FogAndMirrors <true|false>` Enable or disable automatic answers for the mission "Fog And Mirrors". (Default : `true`)
 
+`/option CPH_OneFlewOver <true|false>` Enable or disable automatic answers for the mission "One Flew Over". (Default : `true`)
+
 
 # Additional missions.
-If you want other missions to be supported, feel free to [open an issue](https://github.com/Judgy53/SWL-ComputerPuzzleHelper/issues) or ping me on Discord (Judgy#4057).
+If you want other missions to be supported, feel free to [open an issue](https://github.com/SecretFox/SWL-ComputerPuzzleHelper/issues) or ping me on Discord (make92).
 
 # Download
-Download last version here : https://github.com/Judgy53/SWL-ComputerPuzzleHelper/releases/latest
+Download last version here : https://github.com/SecretFox/SWL-ComputerPuzzleHelper/releases/latest
