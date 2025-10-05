@@ -1,5 +1,6 @@
 import com.judgy.cph.CPHMission_Broadcast;
 import com.judgy.cph.CPHMission_KingsmouthCode;
+import com.judgy.cph.CPHMission_OneFlewOver;
 import mx.utils.Delegate;
 import com.Utils.Archive;
 import com.Utils.ID32;
@@ -38,6 +39,7 @@ class com.judgy.cph.Mod {
 		m_missionHandlers.push(new CPHMission_FogAndMirrors());
 		m_missionHandlers.push(new CPHMission_KingsmouthCode());
 		m_missionHandlers.push(new CPHMission_Broadcast());
+		m_missionHandlers.push(new CPHMission_OneFlewOver());
     }
 	
 	public function Load():Void {
